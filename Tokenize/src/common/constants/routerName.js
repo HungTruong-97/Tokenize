@@ -1,0 +1,8 @@
+export const LOGIN_SCREEN = 'LOGIN_SCREEN';
+export const HOME_SCREEN = 'HOME_SCREEN';
+export const MARKETS_SCREEN = 'MARKETS_SCREEN';
+export const WALLETS_SCREEN = 'WALLETS_SCREEN';
+export const PORTFOLIO_SCREEN = 'PORTFOLIO_SCREEN';
+export const MORE_SCREEN = 'MORE_SCREEN';
+export const BOTTOM_TAB = 'BOTTOM_TAB';
+export const SEARCH_SCREEN = 'SEARCH_SCREEN';
